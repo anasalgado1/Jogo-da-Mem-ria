@@ -7,7 +7,7 @@ const characters = [
  'Brienne de Tarth',
  'Daenarys Targaryen',
  'Jon Snow',
- 'Rei da Noite',
+ 'jaime lannister',
  'Sansa Stark',
  'Tormund',
  'Tyrion Lannister',
